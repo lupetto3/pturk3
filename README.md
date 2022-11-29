@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pturk3
 - 👀 I’m interested in all things Tech, i work in ad tech, but i have a strong interest in coding
 - 🌱 I’m currently learning HTML, CSS and i have a small understanding of javascript from working in ad tech
-- 💞️ I’m looking to collaborate on anything open source! Whatever small contribution i can make
 - 📫 Discord: pturk3#6114, Telegram: @pturk3
 
 <!---
